@@ -1,0 +1,20 @@
+Variables: 
+Son formas de guardar un valor o dato para usarlo más tarde.
+
+Strings: 
+Es un tipo de dato, una cadena de caracteres, se define entre ''.
+
+Funciones (argumentos, return): 
+Las funciones se utilizan para no hacer 2 veces lo mismo. Agrupan y guardan el código para ejecutarlo.
+Los argumentos, son las variables que se le da a las funciones, para usarlas dentro del código de la función.
+La declaración return detiene el código de la función y devuelve un valor.
+
+
+Declaraciones (if)
+Las declaraciones son formas de originar variables para luego utilizarlas.
+If se utiliza para que la función verifique si algo es verdadero o falso y actué en consecuencia.
+
+
+valores booleanos (true, false):
+Los valores booleanos son tipos de valores que representan el 0 y el 1 en el código binario. Pueden ser verdadero o falso.
+Una variable puede tener valor True o False, dependiendo del valor que se le asigne.
