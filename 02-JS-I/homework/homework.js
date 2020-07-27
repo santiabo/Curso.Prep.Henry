@@ -74,7 +74,8 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
-if (str1.length == str2.length){
+  // return str1.length === str2.length ;
+if (str1.length === str2.length){
     return true;
 }
 else {
@@ -116,7 +117,7 @@ function esPar(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (num % 2 == 0) {
+  if (num % 2 === 0) {
       return true;
   }
   else{
@@ -128,7 +129,7 @@ function esImpar(num) {
   // Devuelve "true" si "num" es impar
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (num % 2 ==0) {
+  if (num % 2 === 0) {
     return false;
   }
   else {
@@ -146,6 +147,7 @@ function elevarAlCuadrado(num) {
 function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
   // Tu código:
+  // return math.pow (num, 3);
   return num * num * num;
 }
 

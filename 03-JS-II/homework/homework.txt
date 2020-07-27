@@ -1,0 +1,5 @@
+for:
+for se utiliza para crear un bucle, declarando una variable, despues una condicion y por ultimo un resultado o incremento la variable.
+&& es el equivalente a "y" en español u "or" en ingles.
+|| es el equivalente a "o" en español o "or" en ingles.
+!  Se utiliza para negar equivale al "no" o al "not".
