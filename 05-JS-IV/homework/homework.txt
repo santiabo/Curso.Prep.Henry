@@ -1,0 +1,17 @@
+Objetos:
+Los objetos son tipos de datos, que a diferencia de los Arrays no estan
+ ordenados por posicion, sino que tienen un sistema de key-value.
+
+Propiedades:
+Son los parametros clave-valor que tiene un objeto.
+
+Metodos:
+Metodo se le llama a una funcion que está dentro de un objeto.
+
+Bucle 'for..in':
+Es un sintaxis usada para iterar dentro de un Objeto.
+
+Notacion de puntos vs notacion de corchetes:
+Son dos formas distintas de llamar a un valor dentro de un objeto.
+Braket Notation es util para pasar strings y es una forma mas bien imperativa.
+Dot Notation llama al nombre de un objeto, pero no permite pasar strings.

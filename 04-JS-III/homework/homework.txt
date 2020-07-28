@@ -1,0 +1,2 @@
+Array: 
+Un array es un tipo de dato compuesto por una lista de elementos ordenados.

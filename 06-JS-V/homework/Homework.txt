@@ -1,0 +1,3 @@
+'prototype': 
+El prototype es el conjunto de propiedades heredadas que tiene un objeto.
+Las funciones constructoras, son "fabricas de objetos". todos los objetos fabricados con estas van a tener el mismo Prototype.
